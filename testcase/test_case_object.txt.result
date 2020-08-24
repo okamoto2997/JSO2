@@ -1,0 +1,6 @@
+{
+	"disable"   : false,
+	"enable"    : true,
+	"test_case" : 1.2,
+	"test_case" : "number 2",
+}
